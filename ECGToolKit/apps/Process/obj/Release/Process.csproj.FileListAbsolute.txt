@@ -1,0 +1,6 @@
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\Process\bin\Release\Process.dll
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\Process\bin\Release\Process.pdb
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\Process\obj\Release\Process.ProcessForm.resources
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\Process\obj\Release\Process.csproj.GenerateResource.Cache
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\Process\obj\Release\Process.dll
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\Process\obj\Release\Process.pdb

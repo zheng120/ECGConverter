@@ -1,0 +1,14 @@
+C:\Users\SESA403684\Desktop\ProcessDemo\Process\bin\Debug\Process.dll
+C:\Users\SESA403684\Desktop\ProcessDemo\Process\bin\Debug\Process.pdb
+C:\Users\SESA403684\Desktop\ProcessDemo\Process\obj\Debug\Process.csprojResolveAssemblyReference.cache
+C:\Users\SESA403684\Desktop\ProcessDemo\Process\obj\Debug\Process.ProcessForm.resources
+C:\Users\SESA403684\Desktop\ProcessDemo\Process\obj\Debug\Process.csproj.GenerateResource.Cache
+C:\Users\SESA403684\Desktop\ProcessDemo\Process\obj\Debug\Process.dll
+C:\Users\SESA403684\Desktop\ProcessDemo\Process\obj\Debug\Process.pdb
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\Process\bin\Debug\Process.dll
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\Process\bin\Debug\Process.pdb
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\Process\obj\Debug\Process.ProcessForm.resources
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\Process\obj\Debug\Process.csproj.GenerateResource.Cache
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\Process\obj\Debug\Process.dll
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\Process\obj\Debug\Process.pdb
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\Process\obj\Debug\Process.csprojResolveAssemblyReference.cache
