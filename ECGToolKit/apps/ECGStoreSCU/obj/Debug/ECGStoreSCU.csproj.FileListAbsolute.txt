@@ -1,0 +1,8 @@
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\ECGStoreSCU\bin\Debug\ECGStoreSCU.exe.config
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\ECGStoreSCU\bin\Debug\ECGStoreSCU.exe
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\ECGStoreSCU\bin\Debug\ECGStoreSCU.pdb
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\ECGStoreSCU\bin\Debug\ECGConversion.dll
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\ECGStoreSCU\bin\Debug\ECGConversion.pdb
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\ECGStoreSCU\obj\Debug\ECGStoreSCU.csprojResolveAssemblyReference.cache
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\ECGStoreSCU\obj\Debug\ECGStoreSCU.exe
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\ECGStoreSCU\obj\Debug\ECGStoreSCU.pdb

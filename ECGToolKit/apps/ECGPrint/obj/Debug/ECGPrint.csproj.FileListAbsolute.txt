@@ -1,0 +1,8 @@
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\ECGPrint\bin\Debug\ECGPrint.exe
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\ECGPrint\bin\Debug\ECGPrint.pdb
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\ECGPrint\bin\Debug\ECGConversion.dll
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\ECGPrint\bin\Debug\ECGConversion.pdb
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\ECGPrint\obj\Debug\ECGPrint.exe
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\ECGPrint\obj\Debug\ECGPrint.pdb
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\ECGPrint\bin\Debug\ECGPrint.exe.config
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\ECGPrint\obj\Debug\ECGPrint.csprojResolveAssemblyReference.cache

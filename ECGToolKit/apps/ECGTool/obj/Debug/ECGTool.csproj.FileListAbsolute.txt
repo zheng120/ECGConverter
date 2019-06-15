@@ -1,0 +1,7 @@
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\ECGTool\bin\Debug\ECGTool.exe
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\ECGTool\bin\Debug\ECGTool.pdb
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\ECGTool\bin\Debug\ECGConversion.dll
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\ECGTool\bin\Debug\ECGConversion.pdb
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\ECGTool\obj\Debug\ECGTool.exe
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\ECGTool\obj\Debug\ECGTool.pdb
+C:\Users\SESA403684\Desktop\ECGToolkit-master\apps\ECGTool\bin\Debug\ECGTool.exe.config
